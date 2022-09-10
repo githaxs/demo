@@ -1,3 +1,3 @@
 ## Demo
 
-This repo is an illustration of Githaxs tasks.
+This repo is an illustration of Githaxs tasks.foo
